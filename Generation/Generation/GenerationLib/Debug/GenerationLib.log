@@ -1,0 +1,4 @@
+﻿  GenerationLib.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" завершилась с кодом 1120.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+D:\Заметки\ZAM-2022\ZAM-2022\Generation\Generation\Debug\GenerationLib.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
